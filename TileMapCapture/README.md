@@ -1,4 +1,4 @@
-# TileMapCapture Class
+## TileMapCapture Class
 
 TileMapCapture exports a png by stitching together all the tiles within a boundary box
 
