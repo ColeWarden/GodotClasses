@@ -1,14 +1,14 @@
-## TileMapCapture Class
+# TileMapCapture Class
 
 TileMapCapture exports a png by stitching together all the tiles within a boundary box
 
-# Before
+## Before
 ![before](https://user-images.githubusercontent.com/59773291/148150254-f9fde7a9-79ba-4766-8609-202deec8e2c4.PNG)
 
-# After
+## After
 ![after](https://user-images.githubusercontent.com/59773291/148150266-77171703-1794-4e72-aee2-309edb443951.PNG)
 
-# Parameters
+## Parameters
 - TileMapCapture has two Position2D nodes, Begin and End. Both create the bounding box of what you want to capture
 
 - `tilemap_node_paths` - An Array of nodepaths to all tilemaps you want to be screen captured.
